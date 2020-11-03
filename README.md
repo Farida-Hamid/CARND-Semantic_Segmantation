@@ -40,7 +40,7 @@ The goal here is to achieve 80% efficiency. In some images, the streets are poor
 
 The parts where the model prforms badly are where shadow and discolouration cause pixel Variations.
 
-Sufficient Result          |  Insufficient Result (Discolouration)     |   Insufficient Result( Shadow)
+Sufficient Result          |  Insufficient Result (Discolouration)     |   Insufficient Result(Shadow)
 :-------------------------:|:----------------------------------------:|:-----------------------------
 ![Sufficient](runs/1520213284.025425/um_000040.png)  |  ![Discolouration](runs/1520213284.025425/um_000052.png)|![Shadow](runs/1520213284.025425/um_000044.png)
 
